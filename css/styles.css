@@ -1,0 +1,36 @@
+/* red - #A83F3A
+   green - #40AD59
+   black - #2C2D30
+   */
+
+.ProfileImage{
+    height:100px;
+    width:100px;
+    border-radius:100px;
+}
+
+.Name{
+    font-family:"Verdana",Geneva,sans-serif;
+    font-size:.7em;
+    color:#2C2D30;
+}
+
+.Triangle{
+    height:100%;
+    width:100%;
+    
+}
+
+.NameBox{
+    width:75%;
+    height:120px;
+    color:white;
+    
+}
+
+.TriangleBox{
+    width:25%;
+    height:120px;
+    border:black;
+    
+}
